@@ -2,8 +2,8 @@
 Secure, mobile app for documenting battlefield medical care.
 # Tactical Medical App
 
-**Secure, offline-first mobile app for documenting battlefield medical care.**  
-Designed for extreme conditions to support both medics and non-medical personnel during POI, PFC, and MEDEVAC phases.
+**Secure, mobile app for documenting battlefield medical care.**  
+
 
 ## 💡 Project Purpose
 
